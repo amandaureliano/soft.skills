@@ -19,10 +19,10 @@
       - Seja organizado: se você simplesmente nota tudo em qualuqer lugar
     
     Técnicas de aprendizado: 
-      - Auto-explicação: Explicar para você mesmo o que entendeu. Faça pesquisa dos termos desconhecidos, eles podem ser fundamentais para entender 
-      o contexto geral.
-      - Diversas fontes: Propõe que você estude o mesmo conteúdo em mais de uma fonte de conhecimento e formatos de conteúdo. Use vídeos, artigos, 
-      documentação oficial, blogs e youtube.
+      - Auto-explicação: Explicar para você mesmo o que entendeu. Faça pesquisa dos termos desconhecidos, eles podem ser fundamentais
+      para entender o contexto geral.
+      - Diversas fontes: Propõe que você estude o mesmo conteúdo em mais de uma fonte de conhecimento e formatos de conteúdo. Use vídeos, 
+      artigos, documentação oficial, blogs e youtube.
       - Cérebro, 
           modo focado: Focado em resolver um problema ou entender um conteúdo.
           modo difuso: fazer outras atividades nao relacionadas ao conteudo que esta estudando.
@@ -31,4 +31,4 @@
       
       Aprender a ler documentação.
       Escrever artigos.
-      Stack Overflow: forum de perguntas e respostas .
+      Stack Overflow: fórum de perguntas e respostas .
