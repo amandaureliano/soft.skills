@@ -1,6 +1,4 @@
-<head>
-  <h1>APRENDENDO A APRENDER</h1>
-</head>
+<h1>APRENDENDO A APRENDER</h1>
 
     Porquê nós aprendemos?
       - necessidades básicas 
