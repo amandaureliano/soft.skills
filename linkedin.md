@@ -1,6 +1,4 @@
-<head>
-    <h1> LINKEDIN </h1>
-</head>
+<h1>LINKEDIN</h1>
 
     Tópicos: - Organizando seu perfil
              - A importância da autenticidade
