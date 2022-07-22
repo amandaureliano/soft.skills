@@ -1,6 +1,4 @@
-<head>
-    <h1> GESTÃO DE TEMPO </h1>
-</head>
+<h1>GESTÃO DE TEMPO</h1>
 
     Priorize o que realmente importa
 
