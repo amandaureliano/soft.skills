@@ -1,6 +1,4 @@
-<head>
-  <h1>AUTOCONHECIMENTO</h1>
-</head>
+<h1>AUTOCONHECIMENTO</h1>
 
     3 qualidades: organização, empatia, 
     3 defeitos: timidez, baixa autoestima, falta de firmeza
