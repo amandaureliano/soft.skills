@@ -1,6 +1,4 @@
-<head>
-  <h1>Inteligência Emocional</h1>
-</head>
+<h1>Inteligência Emocional</h1>
 
     - O que são emoções? são reações comportamentais e fisiológicas imediatas a um estímulo, é algo, 
     que mexe, com você e que não envolve pensamento.
