@@ -25,3 +25,6 @@
     Sinais: expectativas baseadas no perfeccionismo e não na realidade, começar tarefas e não terminar,
     tem medo de julgamentos, adia ou evita tarefas (procrastinação), foca no resultado e não estrutura o processo, 
     foca no que falta e não no que já tem.
+    
+    Por que isso acontece? a autossabotagem tem a ver com as experiências que temos na infância, onde situações
+    fazem surgir sentimentos de insuficiência, necessidade de aprovação, culpa.
