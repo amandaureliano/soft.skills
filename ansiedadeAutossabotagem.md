@@ -28,3 +28,8 @@
     
     Por que isso acontece? a autossabotagem tem a ver com as experiências que temos na infância, onde situações
     fazem surgir sentimentos de insuficiência, necessidade de aprovação, culpa.
+    
+    O que posso fazer sobre isso? Dividir as demandas em etapas, fazer um passo de cada vez, evite suposições.
+    Em caso de duvida, pergunte!, estabeleça prazos respeitando seus limites e sua realidade, foque no processo 
+    e não objetivo final, compartilhe seus sentimentos, foco no presente, aceite as frustrações como parte da 
+    vida-antifrágil, cuidado com as comparações (inclusive em redes sociais), reconheça suas vitórias, faça terapia.
